@@ -8,9 +8,9 @@ Home
 link:
 https://www.figma.com/file/TGFStHVq0UUr1uYOYHSoln/Home-Clinica?type=design&node-id=0-6&mode=design&t=3Zu2v8YydIcZf0Qy-0
 
-Quem somos
+Quem somos - https://www.figma.com/file/8eaqGKcEiFTzR49nMQfnUd/Untitled?type=design&node-id=2-89&mode=design&t=8UeTQejNua1Qrcq4-0
 
-Procedimentos - Mayra facilitar
+Procedimentos
 link: 
 https://www.figma.com/file/nJJMprJtE0O5W8HPgdDGN9?type=design
 
